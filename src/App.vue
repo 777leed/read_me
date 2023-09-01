@@ -168,17 +168,14 @@ img {
     padding-top: 66.6%;
   }
 }
-.card__image--flowers {
-  background-image: url(https://unsplash.it/800/600?image=82);
-}
 .card__image--river {
-  background-image: url(https://unsplash.it/800/600?image=11);
+  background-image: url(./assets/4d.jpg);
 }
 .card__image--record {
-  background-image: url(https://unsplash.it/800/600?image=39);
+  background-image: url(./assets/rsm.jpg);
 }
 .card__image--fence {
-  background-image: url(https://unsplash.it/800/600?image=59);
+  background-image: url(./assets/lnd.jpg);
 }
 .card__title {
   color: #696969;
