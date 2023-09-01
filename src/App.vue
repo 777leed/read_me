@@ -27,7 +27,7 @@
       <div class="card__content">
         <div class="card__title">Rosemary District</div>
         <p class="card__text">It was a dark night as usual, the broken moon shinning its dim light as if it was trying so hard to guide him through these dead-silent hallways</p>
-        <button class="btn btn--block card__btn"><a href="">Read More</a></button>
+        <button class="btn btn--block card__btn"><a href="rosemary.html">Read More</a></button>
       </div>
     </div>
   </li>
